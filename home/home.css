@@ -1,10 +1,12 @@
 body {
-    font-size: 20px;
-    background-image: url("/img/festa-das-bolhas.jpeg");
+    
+    background-image: url("fundo1.png");
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    margin-right: ;
+    
 }
 
-.flor{
-    cursor: pointer;
-    display: none;
-}
+
 
