@@ -1,9 +1,10 @@
 body {
-    
+    height: 100vh;
     background-color: black;
-    background-image: url("fundo1.png");
+    background-image: url("fundo.png");
     background-position: center top;
     background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 
