@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    background-image:url("planetasapo.png");
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h1{
+    font-size: larger;
+}
