@@ -1,12 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
 body{
+   
     height: 100vh;
-    background-image:url("planetasapo.png");
+    background-image:url("planetasapo2.png");
     background-color: black;
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    font-family: "Nova square";
 }
 
-h1{
-    font-size: larger;
+h1 {
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+    
+    
 }
+
+p{
+    text-align: center;
+    color: azure;
+    font-family: "Nova Square";
+    font-size: 17px;
+    margin: 10px;
+
+}
+
+div{
+        text-align: center;
+    }
+
+   
